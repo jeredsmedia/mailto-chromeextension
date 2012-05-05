@@ -1,5 +1,4 @@
 #summary Describes and gives examples of how custom links work
-<wiki:gadget url="http://mailto-chromeextension.googlecode.com/svn/trunk/background.html" width="540" height="400" />
 
 = Introduction =
 
