@@ -32,6 +32,7 @@ Do you have an example URL? Please share it with others by emailing me or commen
 || AOL Mail || `http://mail.aol.com/33490-311/aim-6/en-us/mail/compose-message.aspx?to={to}&cc={cc}&bcc={bcc}&subject={subject}&body={body}` || (Build in by default) ||
 || !FastMail || `http://ssl.fastmail.fm/action/compose/?to={to}&cc={cc}&bcc={bcc}&subject={subject}&body={body}` || (Build in by default) ||
 || Gmail || `https://mail.google.com/mail/?view=cm&tf=1&to={to}&cc={cc}&bcc={bcc}&su={subject}&body={body}` || (Build in by default) ||
+|| Godaddy || `http://email09.secureserver.net/webmail.php?login=1&compose=1&compose_args=sendto{to}` || Must have your email address entered and "enable mailto: links" enabled in the Godaddy Workspace Desktop ||
 || Hotmail || `http://mail.live.com/?rru=compose?To={to}&CC={cc}&subject={subject}&body={body}` || (Build in by default) ||
 || Mail.ru || `http://win.mail.ru/cgi-bin/sentmsg?To={to}&CC={cc}&BCC={bcc}&Subject={subject}&BodyUTF8={body}&accel=1` || ||
 || Opera Web mail || `http://mymail.operamail.com/scripts/mail/Outblaze.mail?compose=1&did=1&a=1&to={to}&subject={subject}&body={body}&cc={cc}` || ||
