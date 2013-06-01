@@ -42,3 +42,5 @@ Do you have an example URL? Please share it with others by emailing me or commen
 || Yandex Mail || `http://mail.yandex.ru/compose?mailto={url}` || ||
 || Zimbra || `https://mail.server.com/zimbra/mail?view=compose&subject={subject}&to={to}&cc={cc}&bcc={bcc}&body={body}` || Replace `mail.server.com` by the domain you use when reading your mail ||
 || Zoho Mail || `https://zmail.zoho.com/mail/compose.do?extsrc=mailto&mode=compose&tp=zb&ct={to}` || (Build in by default) ||
+
+Please note: the author of this extension is not affiliated with any of the above companies.
