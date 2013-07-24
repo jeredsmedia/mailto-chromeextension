@@ -36,6 +36,7 @@ Do you have an example URL? Please share it with others by emailing me or commen
 || Hotmail || `https://mail.live.com/default.aspx?rru=compose&to={to}&subject={subject}&body={body}&cc={cc}` || (Build in by default) ||
 || Mail.ru || `http://win.mail.ru/cgi-bin/sentmsg?To={to}&CC={cc}&BCC={bcc}&Subject={subject}&BodyUTF8={body}&accel=1` || ||
 || Opera Web mail || `http://mymail.operamail.com/scripts/mail/Outblaze.mail?compose=1&did=1&a=1&to={to}&subject={subject}&body={body}&cc={cc}` || ||
+|| My Opera mail || `https://mail.opera.com/action/compose/?to={to}&cc={cc}&bcc={bcc}&subject={subject}&body={body}` || ||
 || Outlook.com || `https://mail.live.com/default.aspx?rru=compose&to={to}&subject={subject}&body={body}&cc={cc}` || (Build in by default) ||
 || Windows Live Mail || `https://mail.live.com/default.aspx?rru=compose&to={to}&subject={subject}&body={body}&cc={cc}` || (Build in by default) ||
 || Yahoo Mail || `http://compose.mail.yahoo.com/?To={to}&Cc={cc}&Bcc={bcc}&Subj={subject}&Body={body}` || (Build in by default) ||
