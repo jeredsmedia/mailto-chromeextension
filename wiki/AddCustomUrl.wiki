@@ -1,5 +1,5 @@
 #summary Describes and gives examples of how custom links work
-#labels Featured
+#labels Featured,Restrict-AddWikiComment-Commit
 
 = Introduction =
 
