@@ -2,6 +2,9 @@
 #labels Featured
 
 = Changelog =
+*Version 1.27.0:* (_Chrome, Opera_)
+  * Remove Safari code from the extension
+  * Remove My Opera mail as it will be discontinued
 
 *Version 1.26.0:* (_Chrome, Opera_)
   * Prevent 'saved' label from flashing up when 'ask me every time' is used
