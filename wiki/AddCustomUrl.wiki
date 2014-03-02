@@ -40,6 +40,7 @@ Do you have an example URL? Please share it with others by emailing me or commen
 || My Opera mail || `https://mail.opera.com/action/compose/?to={to}&cc={cc}&bcc={bcc}&subject={subject}&body={body}` || ||
 || Outlook.com || `https://mail.live.com/default.aspx?rru=compose&to={to}&subject={subject}&body={body}&cc={cc}` || (Build in by default) ||
 || Outlook Web Access || `https://mail.server.com/owa/?ae=Item&a=New&t=IPM.Note&to={to}&subject={subject}&body={body}` || Replace `mail.server.com` by the domain you use when reading your mail ||
+|| Posteo || `https://posteo.de/webmail/?_task=mail&_action=compose&_to={url}` || ||
 || Windows Live Mail || `https://mail.live.com/default.aspx?rru=compose&to={to}&subject={subject}&body={body}&cc={cc}` || (Build in by default) ||
 || Yahoo Mail || `http://compose.mail.yahoo.com/?To={to}&Cc={cc}&Bcc={bcc}&Subj={subject}&Body={body}` || (Build in by default) ||
 || Yandex Mail || `http://mail.yandex.ru/compose?mailto={url}` || ||
