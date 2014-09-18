@@ -2,6 +2,10 @@
 #labels Featured
 
 = Changelog =
+*Version 1.28.0:* (_Chrome, Opera_)
+  * Redesigned the options page
+  * The extension can be disabled on certain URLs
+
 *Version 1.27.0:* (_Chrome, Opera_)
   * Remove Safari code from the extension
   * Remove My Opera mail as it will be discontinued
