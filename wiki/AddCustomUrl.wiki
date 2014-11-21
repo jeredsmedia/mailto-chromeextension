@@ -42,7 +42,7 @@ Do you have an example URL? Please share it with others by emailing me or commen
 || Outlook Web Access || `https://mail.server.com/owa/?ae=Item&a=New&t=IPM.Note&to={to}&subject={subject}&body={body}` || Replace `mail.server.com` by the domain you use when reading your mail ||
 || Posteo || `https://posteo.de/webmail/?_task=mail&_action=compose&_to={url}` || ||
 || Windows Live Mail || `https://mail.live.com/default.aspx?rru=compose&to={to}&subject={subject}&body={body}&cc={cc}` || (Build in by default) ||
-|| Yahoo Mail || `http://compose.mail.yahoo.com/?To={to}&Cc={cc}&Bcc={bcc}&Subj={subject}&Body={body}` || (Build in by default) ||
+|| Yahoo Mail || `https://server.mail.yahoo.com/neo/launch?action=compose&To={to}&Cc={cc}&Bcc={bcc}&Subj={subject}&Body={body}` || Replace `server` by the server you use when reading your mail ||
 || Yandex Mail || `http://mail.yandex.ru/compose?mailto={url}` || ||
 || Zimbra || `https://mail.server.com/zimbra/mail?view=compose&subject={subject}&to={to}&cc={cc}&bcc={bcc}&body={body}` || Replace `mail.server.com` by the domain you use when reading your mail ||
 || Zoho Mail || `https://zmail.zoho.com/mail/compose.do?extsrc=mailto&mode=compose&tp=zb&ct={to}` || (Build in by default) ||
