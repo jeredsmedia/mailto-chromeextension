@@ -2,6 +2,10 @@
 #labels Featured
 
 = Changelog =
+*Version 1.28.1:* (_Chrome, Opera_)
+  * Prevent the background page from closing when the 'choose an email service' window is opened
+  * Sort the email services alphabetically again
+
 *Version 1.28.0:* (_Chrome, Opera_)
   * Redesigned the options page
   * The extension can be disabled on certain URLs
